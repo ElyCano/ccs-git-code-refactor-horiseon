@@ -22,7 +22,7 @@ THEN I find a concise, descriptive title
 
 # Mock-up:
 
-![The following image shows the web application's appearance and functionality.] (C:\Users\ely_p\Bootcamp\Challenge1\Challenge_Code_Refactor_Horiseon\Develop\assets\images\css-git-challenge-mockup.png)
+![The following image shows the web application's appearance and functionality](.\Develop\assets\images\css-git-challenge-mockup.png)
 
 # Submission:
 
